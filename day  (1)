@@ -1,0 +1,9 @@
+a=1
+for(r=1;r<=5;r++)
+s=""
+for(i=1;i<=a;i=i+1){
+s=s+""
+}
+console.log(s)
+a=a+1
+}
